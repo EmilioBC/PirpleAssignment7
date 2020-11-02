@@ -2,12 +2,44 @@ h1, h2 {
     text-align: center;
     font-family: sans-serif;
 }
-
-.box {
-    float: left;
-    margin-top: 25px;
-    margin-left: 5px;
-    padding: 10px;
-    
+#rectangleWrapper {
+    padding: 50px 50px 0 50px;
 }
+
+.rectangle {
+    height: 100px;
+    width: 500px;
+}
+
+#red {
+    background-color: red;
+}
+#blue {
+    background-color:blue;
+}
+#yellow {
+    background-color: yellow;
+}
+#purple {
+    background-color: purple;
+}
+#orange {
+    background-color: orange;
+}
+#green {
+    background-color:green;
+}
+#grey {
+    background-color: grey;
+}
+#babyBlue {
+    background-color: lightblue;
+}
+#gold {
+    background-color:gold;
+}
+#white {
+    background-color: whitesmoke;
+}
+
 
